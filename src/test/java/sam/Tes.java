@@ -8,6 +8,11 @@ public class Tes {
 	@Test
 	private void tc() {
 	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
 
 	}
 
